@@ -1,7 +1,5 @@
 import { useState } from 'react'
 
-import { useState } from "react";
-
 // ── Tokens ────────────────────────────────────────────────────────────────────
 const C = {
   navy:"#1B2A4A", gold:"#C9A84C", surface:"#F7F8FC", white:"#FFFFFF",
